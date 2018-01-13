@@ -17,3 +17,6 @@ The thing that comes out of this function
 \description{
 Longer description of what this does. Approximately a paragraph.
 }
+\examples{
+oho(1, 10)
+}
