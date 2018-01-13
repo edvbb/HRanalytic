@@ -6,7 +6,7 @@
 #' @param y The second thing.
 #' @return The thing that comes out of this function
 #'
-#' @oho (do export this in NAMESPACE)
+#' @export
 oho <- function(x,y) {
   return (x+y)
 }

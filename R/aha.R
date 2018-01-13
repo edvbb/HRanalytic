@@ -4,7 +4,7 @@
 #'
 #' @param a The thing
 #'
-#' @export (do export this in NAMESPACE)
+#' @export
 
 aha <- function(a) {
   rnorm(a)
